@@ -1,0 +1,149 @@
+[
+    {
+        "id": 1,
+        "name":" Shirt",
+        "price": 2000,
+        "image": "image/tshirt 1.jpeg"
+    },
+    {
+        "id": 2,
+        "name":" Shirt",
+        "price": 2500,
+        "image": "image/tshirt 2.jpeg"
+    },
+    {
+        "id": 3,
+        "name":" Shirt",
+        "price": 2900,
+        "image": "image/tshirt 3.jpeg"
+    },
+    {
+        "id": 4,
+        "name":" Shirt",
+        "price": 2000,
+        "image": "image/tshirt 4.jpeg"
+    },
+    {
+        "id": 5,
+        "name":" Shirt",
+        "price": 3000,
+        "image": "image/tshirt 5.jpeg"
+    },
+    {
+        "id": 6,
+        "name":" Shirt",
+        "price": 2000,
+        "image": "image/tshirt 6.jpeg"
+    },
+    {
+        "id": 7,
+        "name":" Shirt",
+        "price": 2000,
+        "image": "image/tshirt 7.jpeg"
+    },
+    {
+        "id": 8,
+        "name":" Shirt",
+        "price": 2000,
+        "image": "image/tshirt 8.jpeg"
+    },
+
+    {
+        "id": 9,
+        "name": "Jeans",
+        "price": 2000,
+        "image": "image/jeans 1.jpeg"
+    },
+    {
+        "id": 10,
+        "name": "Jeans",
+        "price": 3100,
+        "image": "image/jeans 2.jpeg"
+    },
+    {
+        "id": 11,
+        "name": "Jeans",
+        "price": 1500,
+        "image": "image/jeans 3.jpeg"
+    },
+    {
+        "id": 12,
+        "name": "Jeans",
+        "price": 2700,
+        "image": "image/jeans 4.jpeg"
+    },
+    {
+        "id": 13,
+        "name": "Jeans",
+        "price": 1200,
+        "image": "image/jeans 5.jpeg"
+    },
+    {
+        "id": 14,
+        "name": "Jeans",
+        "price": 3300,
+        "image": "image/jeans 6.jpeg"
+    },
+    {
+        "id": 14.4,
+        "name": "Jeans",
+        "price": 3300,
+        "image": "image/jeans 7.jpeg"
+    },
+    {
+        "id": 14.2,
+        "name": "Jeans",
+        "price": 3300,
+        "image": "image/jeans 8.jpeg"
+    },
+
+    {
+        "id": 15,
+        "name": "Shoes",
+        "price": 2200,
+        "image": "image/shoes 1.jpeg"
+    },
+    {
+        "id": 16,
+        "name": "Shoes",
+        "price": 3100,
+        "image": "image/shoes 2.jpeg"
+    },
+    {
+        "id": 17,
+        "name": "Shoes",
+        "price": 1400,
+        "image": "image/shoes 3.jpeg"
+    },
+    {
+        "id": 18,
+        "name": "Shoes",
+        "price": 2800,
+        "image": "image/shoes 4.jpeg"
+    },
+    {
+        "id": 19,
+        "name": "Shoes",
+        "price": 1100,
+        "image": "image/shoes 5.jpeg"
+    },
+    {
+        "id": 20,
+        "name": "Shoes",
+        "price": 3300,
+        "image": "image/shoes 6.jpeg"
+    },
+    {
+        "id": 21,
+        "name": "Shoes",
+        "price": 3100,
+        "image": "image/shoes  7.jpeg"
+    },
+    {
+        "id": 22,
+        "name": "Shoes",
+        "price": 3350,
+        "image": "image/shoes 8.jpeg"
+    }
+
+]
